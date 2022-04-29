@@ -1,2 +1,7 @@
-# mission_to_mars_scrape
-Build an app to scrape websites for data about the Mission to Mars and create an HTML page to display the data
+# Mission to Mars
+
+## Project Overview
+
+Using BeautifulSoup and Splinter to automate a web browser to scrape website for data about the Mission to Mars, I have stored the data in a MongoDB database and created a web application with Flask to display the data. 
+
+Resources also include Python, Pandas and Jupyter Notebook, and HTML with Bootstrap components.
